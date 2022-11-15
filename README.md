@@ -1,10 +1,10 @@
 # IBM-Project-5581-1658810337
 
-Smart Fashion Recommender Application
+# Smart Fashion Recommender Application
 
 ______________________________________________________
 
-Team ID : PNT2022TMID20463
+# Team ID : PNT2022TMID20463
 
 Batch : B1-1M3E	
 
