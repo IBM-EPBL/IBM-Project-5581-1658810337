@@ -2,8 +2,6 @@
 
 # Smart Fashion Recommender Application
 
-______________________________________________________
-
 # Team ID : PNT2022TMID20463
 
 Batch : B1-1M3E	
