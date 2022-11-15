@@ -2,6 +2,8 @@
 
 Smart Fashion Recommender Application
 
+______________________________________________________
+
 Team ID : PNT2022TMID20463
 
 Batch : B1-1M3E	
@@ -34,8 +36,9 @@ Branch : Computer Science Engineering
 
 College : SRI KRISHNA COLLEGE OF TECHNOLOGY
 
-Tech Stack
 ______________________________________________________
+
+# Tech Stack
 
 Frontend: Html+Css+JavaScript
 
